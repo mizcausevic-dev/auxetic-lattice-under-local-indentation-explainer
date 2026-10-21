@@ -11,8 +11,8 @@
       "glyph": "plate",
       "label": "Re-entrant geometry",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
@@ -20,31 +20,31 @@
       "label": "Local compression",
       "role": "path",
       "x": 0.5,
-      "y": 0.24
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "telemetry",
       "label": "Inward lateral response",
       "role": "path",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Conventional lattice qualitatively",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Within elastic range",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
